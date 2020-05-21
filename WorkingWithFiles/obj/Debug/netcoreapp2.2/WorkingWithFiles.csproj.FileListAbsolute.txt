@@ -1,0 +1,14 @@
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.2\WorkingWithFiles.deps.json
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.2\WorkingWithFiles.runtimeconfig.json
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.2\WorkingWithFiles.runtimeconfig.dev.json
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.2\WorkingWithFiles.dll
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.csprojAssemblyReference.cache
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.csproj.CoreCompileInputs.cache
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.RazorAssemblyInfo.cache
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.RazorAssemblyInfo.cs
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.AssemblyInfoInputs.cache
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.AssemblyInfo.cs
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.RazorTargetAssemblyInfo.cache
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.2\WorkingWithFiles.pdb
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.dll
+D:\abror\test projects\working-with-files\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.2\WorkingWithFiles.pdb
